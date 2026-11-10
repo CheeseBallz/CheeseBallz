@@ -16,6 +16,29 @@ Upload your image to the repo, then uncomment and edit:
 </div>
 -->
 
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=CheeseBallz&theme=dracula&hide_border=true" alt="streak stats" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/CheeseBallz/CheeseBallz/stats-output/stats.svg" height="150" alt="stats graph" />
+  <img src="https://raw.githubusercontent.com/CheeseBallz/CheeseBallz/languages-output/languages.svg" height="150" alt="languages graph" />
+</div>
+
+<br/>
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CheeseBallz/CheeseBallz/pacman-output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CheeseBallz/CheeseBallz/pacman-output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/CheeseBallz/CheeseBallz/pacman-output/pacman-contribution-graph.svg">
+</picture>
+</div>
+
 ## 🛠️ Languages and Tools
 
 **Languages**
@@ -103,26 +126,3 @@ Upload your image to the repo, then uncomment and edit:
   <img width="12" />
   <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" height="40" alt="arduino" />
 </p>
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=CheeseBallz&theme=dracula&hide_border=true" alt="streak stats" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/CheeseBallz/CheeseBallz/stats-output/stats.svg" height="150" alt="stats graph" />
-  <img src="https://raw.githubusercontent.com/CheeseBallz/CheeseBallz/languages-output/languages.svg" height="150" alt="languages graph" />
-</div>
-
-<br/>
-
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CheeseBallz/CheeseBallz/pacman-output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CheeseBallz/CheeseBallz/pacman-output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/CheeseBallz/CheeseBallz/pacman-output/pacman-contribution-graph.svg">
-</picture>
-</div>
