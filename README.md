@@ -16,15 +16,6 @@ Upload your image to the repo, then uncomment and edit:
 </div>
 -->
 
-## 🔗 Connect with me
-
-<p align="left">
-  <!-- Replace YOUR-... with your real links, delete any you don't want -->
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://YOUR-PORTFOLIO.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-6272A4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-</p>
-
 ## 🛠️ Languages and Tools
 
 **Languages**
@@ -116,16 +107,12 @@ Upload your image to the repo, then uncomment and edit:
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/CheeseBallz/CheeseBallz/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
-  <img src="https://raw.githubusercontent.com/CheeseBallz/CheeseBallz/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=CheeseBallz&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CheeseBallz&layout=compact&langs_count=5&theme=dracula" height="150" alt="languages graph" />
 </div>
 
 <br/>
 
 <div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CheeseBallz/CheeseBallz/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CheeseBallz/CheeseBallz/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/CheeseBallz/CheeseBallz/pacman-output/pacman-contribution-graph.svg?game=pacman">
-</picture>
+  <img src="https://streak-stats.demolab.com?user=CheeseBallz&theme=dracula&hide_border=true" alt="streak stats" />
 </div>
